@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "gender": ["Male"],
+      "type_of_clothing": ["Shirts"],
+      "color": ["Blue", "Black"],
+      "season": ["Summer"],
+      "usage": ["Formal"]
+    },
+    {
+      "id": 2,
+      "gender": ["Female"],
+      "type_of_clothing": ["Tshirts"],
+      "color": ["White", "Red"],
+      "season": ["Summer"],
+      "usage": ["Casual"]
+    }
+  ]
+  

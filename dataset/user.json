@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "gender": ["Male"],
+    "type_of_clothing": ["Tshirts"],
+    "color": ["Blue", "Black"],
+    "season": ["Summer", "Rainy"],
+    "usage": ["Casual"]
+  },
+  {
+    "id": 2,
+    "gender": ["Female"],
+    "type_of_clothing": ["Shirts"],
+    "color": ["White", "Red"],
+    "season": ["Rainy"],
+    "usage": ["Formal"]
+  },
+  {
+    "id": 3,
+    "gender": ["Unisex"],
+    "type_of_clothing": ["Tshirts", "Shirts"],
+    "color": ["Grey", "Black", "Brown"],
+    "season": ["Rainy"],
+    "usage": ["Sports", "Casual"]
+  },
+  {
+    "id": 4,
+    "gender": ["Male"],
+    "type_of_clothing": ["Tshirts"],
+    "color": ["Blue"],
+    "season": ["Summer"],
+    "usage": ["Ethnic", "Formal"]
+  },
+  {
+    "id": 5,
+    "gender": ["Female"],
+    "type_of_clothing": ["Tshirts", "Shirts"],
+    "color": ["Grey", "Black", "White"],
+    "season": ["Summer", "Rainy"],
+    "usage": ["Casual"]
+  },
+  {
+    "id": 6,
+    "gender": ["Unisex"],
+    "type_of_clothing": ["Tshirts"],
+    "color": ["Red", "Black"],
+    "season": ["Summer"],
+    "usage": ["Sports"]
+  },
+  {
+    "id": 7,
+    "gender": ["Female"],
+    "type_of_clothing": ["Shirts"],
+    "color": ["White", "Blue"],
+    "season": ["Rainy"],
+    "usage": ["Ethnic"]
+  },
+  {
+    "id": 8,
+    "gender": ["Male"],
+    "type_of_clothing": ["Tshirts", "Shirts"],
+    "color": ["Black", "Brown"],
+    "season": ["Summer", "Rainy"],
+    "usage": ["Casual", "Formal"]
+  },
+  {
+    "id": 9,
+    "gender": ["Unisex"],
+    "type_of_clothing": ["Shirts"],
+    "color": ["Grey", "Blue"],
+    "season": ["Summer"],
+    "usage": ["Sports", "Formal"]
+  },
+  {
+    "id": 10,
+    "gender": ["Female"],
+    "type_of_clothing": ["Tshirts"],
+    "color": ["Red", "Brown"],
+    "season": ["Rainy"],
+    "usage": ["Casual", "Ethnic"]
+  }
+]
